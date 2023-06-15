@@ -1,0 +1,41 @@
+.sponsors-container{
+    height: 50vh;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    margin: 1% auto 0% auto;
+}
+.sponsors-container h1{
+    font-size: 35px;
+    margin: 50px auto;
+    padding-bottom: 25px;
+}
+.background-image-sponsor{
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel {
+    display: flex;
+    height: 100%;
+    width: 80%;
+    background-color: #f0f0f0;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0px;
+}
+.carousel-item{
+    position: relative;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
