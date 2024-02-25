@@ -1,4 +1,4 @@
-## The backend repository is [here](https://github.com/mathias-kinninkpo/event-manager-api)
+# The backend repository is [here](https://github.com/mathias-kinninkpo/event-manager-api)
 
 # Getting Started with Create React App
 
